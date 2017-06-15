@@ -1,1 +1,1 @@
-# minimalist
+# Be a minimalist

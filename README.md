@@ -14,3 +14,4 @@
 - Contribute beyond ourselves
 - Rid ourselves of excess stuff
 - Discover purpose in our lives
+- Light you up
